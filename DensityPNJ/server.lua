@@ -1,1 +1,0 @@
-print("Arasaka Dev - DensityPNJ à bien été chargé !")
